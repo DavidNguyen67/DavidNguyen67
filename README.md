@@ -19,7 +19,7 @@ My name is David Nguyễn. I currently reside in the vibrant city of Hanoi, Viet
 
 | Social   |                             Link                              |
 | -------- | :-----------------------------------------------------------: |
-| GitHub   |    [davidnguyen67dev](https://github.com/Davidnguyen67dev)    |
+| GitHub   |    [davidnguyen67dev](https://github.com/Davidnguyen67)    |
 | Facebook | [davidNguyen67Dev](https://www.facebook.com/davidNguyen67Dev) |
 
 ## Technologies
