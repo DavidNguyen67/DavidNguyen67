@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub profile
 
-Hi, I'm **David Nguyễn** — a mobile developer currently based in **Hanoi, Vietnam**, originally from **Nghe An**. I specialize in **React Native with TypeScript**, and I’m passionate about building clean, scalable mobile applications.
+Hi, I'm David Nguyễn — a mobile developer from Nghe An, now based in Hanoi. I specialize in React Native with TypeScript, building clean and scalable apps.
 
 Beyond mobile development, I’ve expanded into:
 - 🐳 **Docker** for containerization  
