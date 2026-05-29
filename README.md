@@ -22,9 +22,9 @@
 
 ```typescript
 const DavidNguyen67 = {
-  name:        "David Nguyen",
+  name:        "Nguyen Van Minh Quan",
   role:        "Full-Stack Developer",
-  company:     "VNPT 🇻🇳",
+  company:     "VNPT",
   location:    "Hanoi, Vietnam 📍",
   languages:   ["JavaScript", "TypeScript", "Java", "Kotlin"],
   passions:    ["Clean Code", "System Design", "Open Source"],
