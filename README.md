@@ -76,14 +76,6 @@ const DavidNguyen67 = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DavidNguyen67&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
