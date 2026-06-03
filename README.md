@@ -62,14 +62,6 @@ const DavidNguyen67 = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidNguyen67&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
