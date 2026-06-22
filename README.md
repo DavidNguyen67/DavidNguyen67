@@ -2,7 +2,7 @@
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,45:0f172a,100:172554&height=190&section=header&text=VNPT.2iamQuan&fontSize=52&fontColor=38BDF8&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20&descAlignY=63&descSize=19&animation=fadeIn"
+src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,45:0f172a,100:172554&height=190&section=header&text=VNPT.2iamQuan&fontSize=52&fontColor=38BDF8&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=63&descSize=19&animation=fadeIn"
 />
 
 <a href="https://git.io/typing-svg">
