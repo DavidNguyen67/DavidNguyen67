@@ -324,11 +324,11 @@ flowchart LR
 │                   K3s CLUSTER / KUBERNETES                   │
 │                                                              │
 │   ┌───────────────────┐       ┌──────────────────────────┐   │
-│   │ NGINX Ingress     │──────▶│ Frontend Service         │   │
+│   │ NGINX Ingress     │──────▶│ Frontend Service        │   │
 │   │ Controller        │       │ Next.js                  │   │
 │   └─────────┬─────────┘       └──────────────────────────┘   │
 │             │                                                │
-│             └────────────────▶ Backend Service               │
+│             └────────────────▶ Backend Service              │
 │                               Spring Boot / NestJS           │
 │                                      │                       │
 │                                      ▼                       │
