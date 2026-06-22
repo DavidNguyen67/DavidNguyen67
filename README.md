@@ -50,27 +50,11 @@ const davidNguyen = {
   company: "VNPT",
   location: "Hanoi, Vietnam",
 
-  frontend: [
-    "React",
-    "Next.js",
-    "TypeScript",
-    "Tailwind CSS",
-  ],
+  frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
 
-  backend: [
-    "Spring Boot",
-    "NestJS",
-    "Node.js",
-    "Java",
-    "Kotlin",
-  ],
+  backend: ["Spring Boot", "NestJS", "Node.js", "Java", "Kotlin"],
 
-  databases: [
-    "PostgreSQL",
-    "MySQL",
-    "MongoDB",
-    "Redis",
-  ],
+  databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
 
   devops: [
     "Docker",
@@ -82,10 +66,7 @@ const davidNguyen = {
     "NGINX Ingress",
   ],
 
-  observability: [
-    "Prometheus",
-    "Grafana",
-  ],
+  observability: ["Prometheus", "Grafana"],
 
   currentlyLearning: [
     "Kubernetes Architecture",
