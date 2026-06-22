@@ -256,22 +256,22 @@ operating_system:
 ## `$ kubectl get skills`
 
 ```text
-NAME                    CATEGORY          STATUS       LEVEL
-nextjs                  frontend          Running      █████████░
-react                   frontend          Running      █████████░
-typescript              language          Running      █████████░
-spring-boot             backend           Running      ████████░░
-nestjs                  backend           Running      ████████░░
-postgresql              database          Running      ████████░░
-redis                   database          Running      ███████░░░
-docker                  devops            Running      ████████░░
-jenkins                 ci-cd             Running      ███████░░░
-kubernetes              orchestration     Learning     ██████░░░░
-k3s                     orchestration     Learning     ██████░░░░
-helm                    package-manager   Learning     █████░░░░░
-rancher                 cluster-manager   Learning     █████░░░░░
-prometheus              monitoring        Learning     ████░░░░░░
-grafana                 visualization     Learning     ████░░░░░░
+NAME                    CATEGORY          STATUS
+nextjs                  frontend          Running
+react                   frontend          Running
+typescript              language          Running
+spring-boot             backend           Running
+nestjs                  backend           Running
+postgresql              database          Running
+redis                   database          Running
+docker                  devops            Running
+jenkins                 ci-cd             Running
+kubernetes              orchestration     Learning
+k3s                     orchestration     Learning
+helm                    package-manager   Learning
+rancher                 cluster-manager   Learning
+prometheus              monitoring        Learning
+grafana                 visualization     Learning
 ```
 
 ---
@@ -329,10 +329,10 @@ flowchart LR
 │   └─────────┬─────────┘       └──────────────────────────┘   │
 │             │                                                │
 │             └────────────────▶ Backend Service               │
-│                               Spring Boot / NestJS            │
+│                               Spring Boot / NestJS           │
 │                                      │                       │
 │                                      ▼                       │
-│                          PostgreSQL / Redis / MongoDB         │
+│                          PostgreSQL / Redis / MongoDB        │
 └──────────────────────────────────────────────────────────────┘
                                │
                                ▼
